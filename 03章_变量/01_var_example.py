@@ -2,7 +2,7 @@
 Author: matscoder levin.hsu@outlook.com
 Date: 2025-08-13 18:51:40
 LastEditors: matscoder levin.hsu@outlook.com
-LastEditTime: 2025-08-13 19:08:51
+LastEditTime: 2025-08-14 08:15:12
 FilePath: /Python-beginner/03章_变量/var_example.py
 Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 '''
@@ -21,3 +21,9 @@ b=8
 #输出变量的值，type(a) 表示输出 a 的类型
 print("a的值是", a, "\t类型是",type(a))
 print("b的值是", b, "\t类型是",type(b))
+
+
+#变量使用的注意
+#变量使用的错误形式
+print(c)
+c = 30 #先用再定义也不行
