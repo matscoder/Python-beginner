@@ -7,7 +7,7 @@ FilePath: /Python-beginner/03章_变量/12_type_force_change.py
 Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 '''
 
-#3. 如果需要对变量数据类型进行准还，只需要将数据类型作为函数名即可，这种方式就是显式转换/强制转转
+#3. 如果需要对变量数据类型进行转换，只需要将数据类型作为函数名即可，这种方式就是显式转换/强制转换
 
 #显式转换案例
 

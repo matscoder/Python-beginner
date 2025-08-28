@@ -2,7 +2,7 @@
 Author: matscoder levin.hsu@outlook.com
 Date: 2025-08-14 08:33:10
 LastEditors: matscoder levin.hsu@outlook.com
-LastEditTime: 2025-08-14 09:09:37
+LastEditTime: 2025-08-19 12:04:52
 FilePath: /Python-beginner/03章_变量/03_format_output.py
 Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 '''
@@ -30,7 +30,7 @@ print("个人信息:  {} {} {}" .format(name, age, gender, score)) #前面三个
 
 #print("个人信息:  {} {} {} {}" .format(name, age, gender)) #后面少一个对应的填充变量 ———— 会报错
 
-#多可以，少填充变量不行
+#多填充变量可以，少填充变量不行
 
 
 

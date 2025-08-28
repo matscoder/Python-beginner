@@ -2,7 +2,7 @@
 Author: matscoder levin.hsu@outlook.com
 Date: 2025-08-15 08:57:02
 LastEditors: matscoder levin.hsu@outlook.com
-LastEditTime: 2025-08-15 09:05:18
+LastEditTime: 2025-08-26 15:41:15
 FilePath: /Python-beginner/03章_变量/11_type_change.py
 Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 '''
@@ -26,4 +26,4 @@ var2 = var2 + 0.1
 print("var2 = ", var2, "var2的类型:", type(var2)) # 10.1 float
 
 
-#3. 如果需要对变量数据类型进行准还，只需要将数据类型作为函数名即可，这种方式就是显式转换/强制转转
+#3. 如果需要对变量数据类型进行转换，只需要将数据类型作为函数名即可，这种方式就是显式转换/强制转换

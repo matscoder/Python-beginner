@@ -2,7 +2,7 @@
 Author: matscoder levin.hsu@outlook.com
 Date: 2025-08-15 09:31:24
 LastEditors: matscoder levin.hsu@outlook.com
-LastEditTime: 2025-08-15 09:53:54
+LastEditTime: 2025-08-28 10:22:31
 FilePath: /Python-beginner/03章_变量/13_type_change_detail.py
 Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 '''
@@ -49,3 +49,4 @@ print("j的值:", j, "j的类型:", type(j)) #10.0,float
 k = str(i)
 print("i的值:", i, "i的类型:", type(i)) #10,int
 print("k的值:", k, "k的类型:", type(k)) #"10", str
+
